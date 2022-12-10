@@ -1,0 +1,18 @@
+.case{
+    display: inline-grid;
+}
+
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+.set{
+    gap: 15px 15px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    background-color: rgb(211, 211, 211);
+}
+
+.bg-text{
+    color: white;
+}
